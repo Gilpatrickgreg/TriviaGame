@@ -1,0 +1,27 @@
+h1 {
+    color: rgb(93, 93, 228);
+    text-align: center;
+    font-size: 50px;
+    
+}
+
+h2 {
+    text-align: center;
+    font-size: 40px;
+    color: rgb(16, 173, 24)
+
+}
+
+h3, h4, h5, h6 {
+    text-align: center;
+    font-size: 25px;
+    color: red;
+}
+
+form {
+    
+    text-align: center;
+    font-size: 22px;
+    color: yellow;
+
+}
