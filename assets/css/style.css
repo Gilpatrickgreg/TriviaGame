@@ -28,3 +28,9 @@ form {
     color: yellow;
 
 }
+#buttonReset {
+    text-align: right;
+    margin-left: 600px;
+    height: 30px;
+    background-color: lightblue;
+}
